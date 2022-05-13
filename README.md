@@ -61,3 +61,5 @@ const whateverTheUserTyped = myInputEl.value
 - div
 - Why? A place to display the sum
 - How? `divEl.textContent = something`
+
+## Event
