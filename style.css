@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+
+.box {
+    border: solid 1px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
